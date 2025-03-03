@@ -80,7 +80,7 @@ public class autoAlign extends Command {
             end(true);
         }
     }
-
+//hey
     @Override
     public boolean isFinished() {
         PhotonPipelineResult result = camera.getLatestResult();
