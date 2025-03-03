@@ -43,6 +43,8 @@ public final class Constants
 
     //Climber Motor Controllers
     public final static int m_climber = 4;
+    public static final String cameraName = "photonvision";
+    public static final double distanceToTag = 8 * 2.54;
 
     //Arm Constants
     public final int beamBreakId = 0;
